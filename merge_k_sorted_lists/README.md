@@ -52,6 +52,7 @@ Output: []
 #### Time Complexity
 
 > O(n2log(n)) // n for each element, 1 log(n) for removal, 1 log(n) for inserting the remained of the sorted list
+>
 > O(nlog(n))
 
 #### Space Complexity
